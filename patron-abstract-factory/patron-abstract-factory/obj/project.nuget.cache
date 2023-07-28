@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yDJo0iYEpUN4hK/Y1hh1z7t88MqYNNnAywLgjuGDph2/zkD1WSdzSs7tQXClPw1RUNKpfcYAIrZY0LLUb8gG5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martin\\Documents\\Twitch\\design-patterns\\anotations\\patron-abstract-factory\\patron-abstract-factory\\patron-abstract-factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\martin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\martin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\martin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

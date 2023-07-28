@@ -1,0 +1,15 @@
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\bin\Debug\net6.0\patron-template-method.exe
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\bin\Debug\net6.0\patron-template-method.deps.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\bin\Debug\net6.0\patron-template-method.runtimeconfig.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\bin\Debug\net6.0\patron-template-method.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\bin\Debug\net6.0\patron-template-method.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\patron-template-method.csproj.AssemblyReference.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\patron-template-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\patron-template-method.AssemblyInfoInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\patron-template-method.AssemblyInfo.cs
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\patron-template-method.csproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\patron-template-method.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\refint\patron-template-method.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\patron-template-method.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\patron-template-method.genruntimeconfig.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-template-method\patron-template-method\obj\Debug\net6.0\ref\patron-template-method.dll

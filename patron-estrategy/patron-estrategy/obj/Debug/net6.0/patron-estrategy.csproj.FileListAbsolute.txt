@@ -1,0 +1,15 @@
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\bin\Debug\net6.0\patron-estrategy.exe
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\bin\Debug\net6.0\patron-estrategy.deps.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\bin\Debug\net6.0\patron-estrategy.runtimeconfig.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\bin\Debug\net6.0\patron-estrategy.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\bin\Debug\net6.0\patron-estrategy.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\patron-estrategy.csproj.AssemblyReference.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\patron-estrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\patron-estrategy.AssemblyInfoInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\patron-estrategy.AssemblyInfo.cs
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\patron-estrategy.csproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\patron-estrategy.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\refint\patron-estrategy.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\patron-estrategy.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\patron-estrategy.genruntimeconfig.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-estrategy\patron-estrategy\obj\Debug\net6.0\ref\patron-estrategy.dll

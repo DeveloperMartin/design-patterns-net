@@ -1,0 +1,13 @@
+Todo mal
+
+Decorator
+
+Builder
+
+Abstract Factory
+
+Estrategy
+
+Estrategy con template method  
+
+Facade

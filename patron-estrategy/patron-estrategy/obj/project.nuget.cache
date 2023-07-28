@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CP/E3lIytyoC5PbffYqWuzucQCkEnlpaOBm8vbWpDNNLgyZexL8IfRa5Ggrg3f4y2PYDUoIborNfIr2/6TJwyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martin\\Documents\\Twitch\\design-patterns\\anotations\\patron-estrategy\\patron-estrategy\\patron-estrategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\martin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\martin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\martin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

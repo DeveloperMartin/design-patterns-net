@@ -1,0 +1,15 @@
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\bin\Debug\net6.0\patron-builder.exe
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\bin\Debug\net6.0\patron-builder.deps.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\bin\Debug\net6.0\patron-builder.runtimeconfig.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\bin\Debug\net6.0\patron-builder.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\bin\Debug\net6.0\patron-builder.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\patron-builder.csproj.AssemblyReference.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\patron-builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\patron-builder.AssemblyInfoInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\patron-builder.AssemblyInfo.cs
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\patron-builder.csproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\patron-builder.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\refint\patron-builder.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\patron-builder.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\patron-builder.genruntimeconfig.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-builder\patron-builder\obj\Debug\net6.0\ref\patron-builder.dll

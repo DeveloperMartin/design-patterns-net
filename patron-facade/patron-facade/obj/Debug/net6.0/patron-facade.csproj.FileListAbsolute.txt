@@ -1,0 +1,15 @@
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\bin\Debug\net6.0\patron-facade.exe
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\bin\Debug\net6.0\patron-facade.deps.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\bin\Debug\net6.0\patron-facade.runtimeconfig.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\bin\Debug\net6.0\patron-facade.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\bin\Debug\net6.0\patron-facade.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\patron-facade.csproj.AssemblyReference.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\patron-facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\patron-facade.AssemblyInfoInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\patron-facade.AssemblyInfo.cs
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\patron-facade.csproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\patron-facade.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\refint\patron-facade.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\patron-facade.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\patron-facade.genruntimeconfig.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\patron-facade\patron-facade\obj\Debug\net6.0\ref\patron-facade.dll
