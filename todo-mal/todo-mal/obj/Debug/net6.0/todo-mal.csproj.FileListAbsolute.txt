@@ -1,0 +1,15 @@
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\bin\Debug\net6.0\todo-mal.exe
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\bin\Debug\net6.0\todo-mal.deps.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\bin\Debug\net6.0\todo-mal.runtimeconfig.json
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\bin\Debug\net6.0\todo-mal.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\bin\Debug\net6.0\todo-mal.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\todo-mal.csproj.AssemblyReference.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\todo-mal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\todo-mal.AssemblyInfoInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\todo-mal.AssemblyInfo.cs
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\todo-mal.csproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\todo-mal.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\refint\todo-mal.dll
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\todo-mal.pdb
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\todo-mal.genruntimeconfig.cache
+C:\Users\martin\Documents\Twitch\design-patterns\anotations\todo-mal\todo-mal\obj\Debug\net6.0\ref\todo-mal.dll
